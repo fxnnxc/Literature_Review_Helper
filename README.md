@@ -28,6 +28,7 @@ What you have to set in **run.py**
 * **BLOCK_ID** : one conference composed of many blocks. for example the below picuture of CLJ has 2 blocks. You have to find it by yourself by insepcting the html (Ctrl+Shift + I for chrome)
 
 * **GITHUB_MD_FORMAT** : It is just for writing format. Use it when you want a github markdown foarmat.(default is tep seperate )
+
   something like this [Provable Fast Greedy Compressive Summarization with Any Monotone Submodular Function](https://www.aclweb.org/anthology/N18-1157/)
 
 
