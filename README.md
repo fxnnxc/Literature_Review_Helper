@@ -34,7 +34,7 @@ something like this [Provable Fast Greedy Compressive Summarization with Any Mon
 
 |Block Image|
 |---|
-|<img src="docs/img3.png">|
+|<img src="docs/img3.png" width=400px>|
 
 
 
