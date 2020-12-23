@@ -32,7 +32,7 @@ What you have to set in **run.py**
 something like this [Provable Fast Greedy Compressive Summarization with Any Monotone Submodular Function](https://www.aclweb.org/anthology/N18-1157/)
 
 
-|Block Image|
+|Block Examples|
 |---|
 |<img src="docs/img3.png" width=400px>|
 
