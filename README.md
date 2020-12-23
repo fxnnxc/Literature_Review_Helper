@@ -17,7 +17,7 @@ Output : Papername / PaperLink paired txt file.
 
 ## 
 
-What you have to set in run.py
+What you have to set in **run.py**
 
 <img src="docs/img4.png">
 
