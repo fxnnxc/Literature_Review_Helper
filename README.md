@@ -27,7 +27,7 @@ What you have to set in **run.py**
 <p align=center>
 <img src="docs/img1.png" width=300px>
 </p>
-* GITHUB_MD_FORMAT : It is just writing format. Use it when you want a github markdown foarmat. 
+* GITHUB_MD_FORMAT : It is just for writing format. Use it when you want a github markdown foarmat. 
 
 something like this [Provable Fast Greedy Compressive Summarization with Any Monotone Submodular Function](https://www.aclweb.org/anthology/N18-1157/)
 
