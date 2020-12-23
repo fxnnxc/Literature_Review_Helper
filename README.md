@@ -1,5 +1,7 @@
 # Literature Review Helper 
 
+Use it when you want to collect papers with keywords in [ACL Anthology](https://www.aclweb.org/anthology/)
+
 <a>
 <img src=https://img.shields.io/badge/Python-v3.6.8-blue?style=flat&logo=python  height=30px>
 </a>
