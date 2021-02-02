@@ -1,0 +1,15 @@
+|[Incremental Transformer with Deliberation Decoder for Document Grounded Conversations](https://www.aclweb.org/anthology/P19-1002/)|
+|[Adaptive Attention Span in Transformers](https://www.aclweb.org/anthology/P19-1032/)|
+|[Syntactically Supervised Transformers for Faster Neural Machine Translation](https://www.aclweb.org/anthology/P19-1122/)|
+|[Extracting Multiple-Relations in One-Pass with Pre-Trained Transformers](https://www.aclweb.org/anthology/P19-1132/)|
+|[Fine-tuning Pre-Trained Transformer Language Models to Distantly Supervised Relation Extraction](https://www.aclweb.org/anthology/P19-1134/)|
+|[Learning Deep Transformer Models for Machine Translation](https://www.aclweb.org/anthology/P19-1176/)|
+|[Transformer-XL: Attentive Language Models beyond a Fixed-Length Context](https://www.aclweb.org/anthology/P19-1285/)|
+|[Lattice-Based Transformer Encoder for Neural Machine Translation](https://www.aclweb.org/anthology/P19-1298/)|
+|[COMET: Commonsense Transformers for Automatic Knowledge Graph Construction](https://www.aclweb.org/anthology/P19-1470/)|
+|[HIBERT: Document Level Pre-training of Hierarchical Bidirectional Transformers for Document Summarization](https://www.aclweb.org/anthology/P19-1499/)|
+|[Hierarchical Transformers for Multi-Document Summarization](https://www.aclweb.org/anthology/P19-1500/)|
+|[Multimodal Transformer Networks for End-to-End Video-Grounded Dialogue Systems](https://www.aclweb.org/anthology/P19-1564/)|
+|[Style Transformer: Unpaired Text Style Transfer without Disentangled Latent Representation](https://www.aclweb.org/anthology/P19-1601/)|
+|[Lattice Transformer for Speech Translation](https://www.aclweb.org/anthology/P19-1649/)|
+|[Multimodal Transformer for Unaligned Multimodal Language Sequences](https://www.aclweb.org/anthology/P19-1656/)|

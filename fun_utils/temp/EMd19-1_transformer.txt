@@ -1,0 +1,12 @@
+|[Knowledge-Enriched Transformer for Emotion Detection in Textual Conversations](https://www.aclweb.org/anthology/D19-1016/)|
+|[Effective Use of Transformer Networks for Entity Tracking](https://www.aclweb.org/anthology/D19-1070/)|
+|[Improving Deep Transformer with Depth-Scaled Initialization and Merged Attention](https://www.aclweb.org/anthology/D19-1083/)|
+|[Tree Transformer: Integrating Tree Structures into Self-Attention](https://www.aclweb.org/anthology/D19-1098/)|
+|[Video Dialog via Progressive Inference and Cross-Transformer](https://www.aclweb.org/anthology/D19-1217/)|
+|[Adaptively Sparse Transformers](https://www.aclweb.org/anthology/D19-1223/)|
+|[Humor Detection: A Transformer Gets the Last Laugh](https://www.aclweb.org/anthology/D19-1372/)|
+|[Transformer Dissection: An Unified Understanding for Transformer’s Attention via the Lens of Kernel](https://www.aclweb.org/anthology/D19-1443/)|
+|[The Bottom-up Evolution of Representations in the Transformer: A Study with Machine Translation and Language Modeling Objectives](https://www.aclweb.org/anthology/D19-1448/)|
+|[Jointly Learning to Align and Translate with Transformer Models](https://www.aclweb.org/anthology/D19-1453/)|
+|[LXMERT: Learning Cross-Modality Encoder Representations from Transformers](https://www.aclweb.org/anthology/D19-1514/)|
+|[Modeling Graph Structure in Transformer for Better AMR-to-Text Generation](https://www.aclweb.org/anthology/D19-1548/)|

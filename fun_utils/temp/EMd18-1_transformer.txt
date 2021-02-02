@@ -1,0 +1,2 @@
+|[Improving the Transformer Translation Model with Document-Level Context](https://www.aclweb.org/anthology/D18-1049/)|
+|[Integrating Transformer and Paraphrase Rules for Sentence Simplification](https://www.aclweb.org/anthology/D18-1355/)|

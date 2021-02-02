@@ -8,13 +8,14 @@ def main():
     chrome_options.add_argument('--headless')
     chrome_options.add_argument('--disable-dev-shm-usage')
     driver =webdriver.Chrome('chromedriver', options=chrome_options)
-
-
-    WORDS =["summarization", "variational"]
-    ACL_LINK = "https://www.aclweb.org/anthology/events/acl-2020/"
-    BLOCK_ID = "2020-acl-main"    
-    GITHUB_MD_FORMAT = False
-
+   
+    #----------------------------------------------------------------
+    WORDS =["transformer"]
+    ACL_LINK = "https://www.aclweb.org/anthology/events/acl-2018/"
+    BLOCK_ID = "p18-1"    
+    GITHUB_MD_FORMAT = True
+    SAVE_TAG ="ACL"+BLOCK_ID+"_"+"_".join(WORDS)
+    #----------------------------------------------------------------
 
     a = driver.get(ACL_LINK)
     a = driver.find_element_by_id(BLOCK_ID)
@@ -28,7 +29,7 @@ def main():
         links.append(e.get_attribute('href'))
 
     count = 0
-    with open(BLOCK_ID+".txt", "w", encoding="utf8") as f :
+    with open(SAVE_TAG+".txt", "w", encoding="utf8") as f :
         for n, w in zip(names, links):
             L = n.lower()
             if not all([word not in L for word in WORDS]):

@@ -1,0 +1,1 @@
+|[Accelerating Neural Transformer via an Average Attention Network](https://www.aclweb.org/anthology/P18-1166/)|

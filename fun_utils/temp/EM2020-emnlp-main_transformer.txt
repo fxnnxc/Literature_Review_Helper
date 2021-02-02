@@ -1,0 +1,39 @@
+|[KERMIT: Complementing Transformer Architectures with Encoders of Explicit Syntactic Interpretations](https://www.aclweb.org/anthology/2020.emnlp-main.18/)|
+|[ETC: Encoding Long and Structured Inputs in Transformers](https://www.aclweb.org/anthology/2020.emnlp-main.19/)|
+|[Pre-Training Transformers as Energy-Based Cloze Models](https://www.aclweb.org/anthology/2020.emnlp-main.20/)|
+|[Calibration of Pre-trained Transformers](https://www.aclweb.org/anthology/2020.emnlp-main.21/)|
+|[Friendly Topic Assistant for Transformer Based Abstractive Summarization](https://www.aclweb.org/anthology/2020.emnlp-main.35/)|
+|[PAIR: Planning and Iterative Refinement in Pre-trained Transformers for Long Text Generation](https://www.aclweb.org/anthology/2020.emnlp-main.57/)|
+|[Multi-Unit Transformers for Neural Machine Translation](https://www.aclweb.org/anthology/2020.emnlp-main.77/)|
+|[Long-Short Term Masking Transformer: A Simple but Effective Baseline for Document-level Neural Machine Translation](https://www.aclweb.org/anthology/2020.emnlp-main.81/)|
+|[Coupled Hierarchical Transformer for Stance-Aware Rumor Verification in Social Media Conversations](https://www.aclweb.org/anthology/2020.emnlp-main.108/)|
+|[Generating Radiology Reports via Memory-driven Transformer](https://www.aclweb.org/anthology/2020.emnlp-main.112/)|
+|[A Bilingual Generative Transformer for Semantic Sentence Embedding](https://www.aclweb.org/anthology/2020.emnlp-main.122/)|
+|[Table Fact Verification with Structure-Aware Transformer](https://www.aclweb.org/anthology/2020.emnlp-main.126/)|
+|[Retrofitting Structure-aware Transformer Language Model for End Tasks](https://www.aclweb.org/anthology/2020.emnlp-main.168/)|
+|[Towards Reasonably-Sized Character-Level Transformer NMT by Finetuning Subword Systems](https://www.aclweb.org/anthology/2020.emnlp-main.203/)|
+|[Transfer Learning and Distant Supervision for Multilingual Transformer Models: A Study on African Languages](https://www.aclweb.org/anthology/2020.emnlp-main.204/)|
+|[Losing Heads in the Lottery: Pruning Transformer Attention in Neural Machine Translation](https://www.aclweb.org/anthology/2020.emnlp-main.211/)|
+|[STL-CQA: Structure-based Transformers with Localization and Encoding for Chart Question Answering](https://www.aclweb.org/anthology/2020.emnlp-main.264/)|
+|[VD-BERT: A Unified Vision and Dialog Transformer with BERT](https://www.aclweb.org/anthology/2020.emnlp-main.269/)|
+|[Point to the Expression: Solving Algebraic Word Problems using the Expression-Pointer Transformer Model](https://www.aclweb.org/anthology/2020.emnlp-main.308/)|
+|[Learning to Fuse Sentences with Transformers for Summarization](https://www.aclweb.org/anthology/2020.emnlp-main.338/)|
+|[Stepwise Extractive Summarization and Planning with Structured Transformers](https://www.aclweb.org/anthology/2020.emnlp-main.339/)|
+|[From Zero to Hero: On the Limitations of Zero-Shot Language Transfer with Multilingual Transformers](https://www.aclweb.org/anthology/2020.emnlp-main.363/)|
+|[An Empirical Study of Pre-trained Transformers for Arabic Information Extraction](https://www.aclweb.org/anthology/2020.emnlp-main.382/)|
+|[TNT: Text Normalization based Pre-training of Transformers for Content Moderation](https://www.aclweb.org/anthology/2020.emnlp-main.383/)|
+|[Assessing Phrasal Representation and Composition in Transformers](https://www.aclweb.org/anthology/2020.emnlp-main.397/)|
+|[Analyzing Redundancy in Pretrained Transformer Models](https://www.aclweb.org/anthology/2020.emnlp-main.398/)|
+|[ISAAQ - Mastering Textbook Questions with Pre-trained Transformers and Bottom-Up and Top-Down Attention](https://www.aclweb.org/anthology/2020.emnlp-main.441/)|
+|[Understanding the Difficulty of Training Transformers](https://www.aclweb.org/anthology/2020.emnlp-main.463/)|
+|[Investigating African-American Vernacular English in Transformer-Based Text Generation](https://www.aclweb.org/anthology/2020.emnlp-main.473/)|
+|[Attention is Not Only a Weight: Analyzing Transformers with Vector Norms](https://www.aclweb.org/anthology/2020.emnlp-main.574/)|
+|[On the Ability and Limitations of Transformers to Recognize Formal Languages](https://www.aclweb.org/anthology/2020.emnlp-main.576/)|
+|[PowerTransformer: Unsupervised Controllable Revision for Biased Language Correction](https://www.aclweb.org/anthology/2020.emnlp-main.602/)|
+|[A Time-Aware Transformer Based Model for Suicide Ideation Detection on Social Media](https://www.aclweb.org/anthology/2020.emnlp-main.619/)|
+|[Transformer Based Multi-Source Domain Adaptation](https://www.aclweb.org/anthology/2020.emnlp-main.639/)|
+|[Text Graph Transformer for Document Classification](https://www.aclweb.org/anthology/2020.emnlp-main.668/)|
+|[Competence-Level Prediction and Resume & Job Description Matching Using Context-Aware Transformer Models](https://www.aclweb.org/anthology/2020.emnlp-main.679/)|
+|[X-LXMERT: Paint, Caption and Answer Questions with Multi-Modal Transformers](https://www.aclweb.org/anthology/2020.emnlp-main.707/)|
+|[PyMT5: multi-mode translation of natural language and Python code with transformers](https://www.aclweb.org/anthology/2020.emnlp-main.728/)|
+|[On Extractive and Abstractive Neural Document Summarization with Transformer Language Models](https://www.aclweb.org/anthology/2020.emnlp-main.748/)|

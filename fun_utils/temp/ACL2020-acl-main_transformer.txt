@@ -1,0 +1,27 @@
+|[Lipschitz Constrained Parameter Initialization for Deep Transformers](https://www.aclweb.org/anthology/2020.acl-main.38/)|
+|[SPECTER: Document-level Representation Learning using Citation-informed Transformers](https://www.aclweb.org/anthology/2020.acl-main.207/)|
+|[Integrating Multimodal Information in Large Pretrained Transformers](https://www.aclweb.org/anthology/2020.acl-main.214/)|
+|[Multimodal and Multiresolution Speech Recognition with Transformers](https://www.aclweb.org/anthology/2020.acl-main.216/)|
+|[INSET: Sentence Infilling with INter-SEntential Transformer](https://www.aclweb.org/anthology/2020.acl-main.226/)|
+|[MART: Memory-Augmented Recurrent Transformer for Coherent Video Paragraph Captioning](https://www.aclweb.org/anthology/2020.acl-main.233/)|
+|[Pretrained Transformers Improve Out-of-Distribution Robustness](https://www.aclweb.org/anthology/2020.acl-main.244/)|
+|[Improving Transformer Models by Reordering their Sublayers](https://www.aclweb.org/anthology/2020.acl-main.270/)|
+|[Improving Multimodal Named Entity Recognition via Entity Span Detection with Unified Multimodal Transformer](https://www.aclweb.org/anthology/2020.acl-main.306/)|
+|[Roles and Utilization of Attention Heads in Transformer-based Neural Language Models](https://www.aclweb.org/anthology/2020.acl-main.311/)|
+|[Dynamically Adjusting Transformer Batch Size by Monitoring Gradient Direction Change](https://www.aclweb.org/anthology/2020.acl-main.323/)|
+|[Lexically Constrained Neural Machine Translation with Levenshtein Transformer](https://www.aclweb.org/anthology/2020.acl-main.325/)|
+|[SentiBERT: A Transferable Transformer-Based Architecture for Compositional Sentiment Semantics](https://www.aclweb.org/anthology/2020.acl-main.341/)|
+|[Successfully Applying the Stabilized Lottery Ticket Hypothesis to the Transformer Architecture](https://www.aclweb.org/anthology/2020.acl-main.360/)|
+|[Quantifying Attention Flow in Transformers](https://www.aclweb.org/anthology/2020.acl-main.385/)|
+|[Multimodal Transformer for Multimodal Machine Translation](https://www.aclweb.org/anthology/2020.acl-main.400/)|
+|[DeFormer: Decomposing Pre-trained Transformers for Faster Question Answering](https://www.aclweb.org/anthology/2020.acl-main.411/)|
+|[A Transformer-based Approach for Source Code Summarization](https://www.aclweb.org/anthology/2020.acl-main.449/)|
+|[The Cascade Transformer: an Application for Efficient Answer Sentence Selection](https://www.aclweb.org/anthology/2020.acl-main.504/)|
+|[Transformers to Learn Hierarchical Contexts in Multiparty Dialogue for Span-based Question Answering](https://www.aclweb.org/anthology/2020.acl-main.505/)|
+|[Dependency Graph Enhanced Dual-transformer Structure for Aspect-based Sentiment Classification](https://www.aclweb.org/anthology/2020.acl-main.588/)|
+|[FLAT: Chinese NER Using Flat-Lattice Transformer](https://www.aclweb.org/anthology/2020.acl-main.611/)|
+|[Highway Transformer: Self-Gating Enhanced Self-Attentive Networks](https://www.aclweb.org/anthology/2020.acl-main.616/)|
+|[Heterogeneous Graph Transformer for Graph-to-Sequence Learning](https://www.aclweb.org/anthology/2020.acl-main.640/)|
+|[Do Transformers Need Deep Long-Range Memory?](https://www.aclweb.org/anthology/2020.acl-main.672/)|
+|[HAT: Hardware-Aware Transformers for Efficient Natural Language Processing](https://www.aclweb.org/anthology/2020.acl-main.686/)|
+|[Regularized Context Gates on Transformer for Machine Translation](https://www.aclweb.org/anthology/2020.acl-main.757/)|

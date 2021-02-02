@@ -1,3 +1,10 @@
+
+- [Literature Review Helper](#literature-review-helper)
+  - [How to Use](#how-to-use)
+  - [⚠️⚠️ Waring ⚠️⚠️](#️️-waring-️️)
+  - [Fun Utils 🥳](#fun-utils-)
+- [Supports](#supports)
+
 # Literature Review Helper 
 
 Use it when you want to collect papers with keywords in [ACL Anthology](https://www.aclweb.org/anthology/)
@@ -17,7 +24,7 @@ Output : Papername / PaperLink paired txt file.
 ```
 
 
-## 
+## How to Use
 
 What you have to set in **run.py**
 
@@ -42,6 +49,21 @@ What you have to set in **run.py**
 
 If the chrome version doesn't match. You may have error. Download Chrome 
 driver [here](https://sites.google.com/a/chromium.org/chromedriver/downloads) when you have an error. 
+
+
+
+## Fun Utils 🥳
+
+1. Reform to Table
+
+   Reform the list of texts to the markdown table format.
+   
+   ```
+   python fun_utils/reform_to_table.py fun_utils/temp
+   ```
+
+
+
 
 ---
 
