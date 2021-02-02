@@ -1,8 +1,8 @@
 
 - [Literature Review Helper](#literature-review-helper)
-  - [How to Use](#how-to-use)
-  - [⚠️⚠️ Waring ⚠️⚠️](#️️-waring-️️)
-  - [Fun Utils 🥳](#fun-utils-)
+  - [1. How to Use](#1-how-to-use)
+  - [2. Waring ⚠️](#2-waring-️)
+  - [3. Fun Utils 🥳](#3-fun-utils-)
 - [Supports](#supports)
 
 # Literature Review Helper 
@@ -24,7 +24,7 @@ Output : Papername / PaperLink paired txt file.
 ```
 
 
-## How to Use
+## 1. How to Use
 
 What you have to set in **run.py**
 
@@ -45,14 +45,14 @@ What you have to set in **run.py**
 
 
 
-## ⚠️⚠️ Waring ⚠️⚠️ 
+## 2. Waring ⚠️ 
 
 If the chrome version doesn't match. You may have error. Download Chrome 
 driver [here](https://sites.google.com/a/chromium.org/chromedriver/downloads) when you have an error. 
 
 
 
-## Fun Utils 🥳
+## 3. Fun Utils 🥳
 
 1. Reform to Table
 
